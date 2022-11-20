@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Lanjewar</h1>
 <h3 align="center">A Passionate Cyber Security Researcher & Ethical Hacker ❤ from India</h3>
-<img align="right" alt="hacker" width="400" src="">
+<img align="right" alt="hacker" width="400" src="https://github.com/infosecbackpacker/infosecbackpacker/blob/main/hydra-we-bhack.gif">
 
 
 - 🌱 I’m currently learning **Certified Ethical Hacker Modules ❤**
