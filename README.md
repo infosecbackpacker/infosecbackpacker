@@ -30,7 +30,7 @@
 
 <h3 align="center"> Rank In Worldwide CTF </h3>
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/darksentinelx.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/425862"></script>
  <img src="http://www.hackthebox.eu/badge/image/618774" alt="Hack The Box">
 </p>
 <hr>
