@@ -32,6 +32,7 @@
 <p align="center">
 
  <img src="http://www.hackthebox.eu/badge/image/618774" alt="Hack The Box">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/darksentinelx.png" alt="TryHackMe">
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
